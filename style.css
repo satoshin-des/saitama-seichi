@@ -44,3 +44,7 @@ video {
     width: 92%;
     max-width: 400px;
 }
+
+.table_frame {
+    border: 1.5px solid #ffffff;
+}
